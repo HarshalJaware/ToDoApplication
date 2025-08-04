@@ -1,0 +1,21 @@
+/* Layout.css */
+.app-header {
+  background-color: #282c34;
+  padding: 1rem;
+  color: white;
+  text-align: left;
+  font-size: 1.8rem;
+}
+
+.app-main {
+  padding: 2rem;
+  min-height: 80vh;
+}
+
+.app-footer {
+  background: #f1f1f1;
+  color: #333;
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
